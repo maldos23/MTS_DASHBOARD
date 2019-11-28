@@ -1,0 +1,24 @@
+{
+  "name": "mts-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboards de Trasportes y unidades en transito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KALAN TEAM FEAT MTS TEAM\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "morgan": "^1.9.1",
+    "mssql": "^6.0.1",
+    "nodemon": "^2.0.1",
+    "pm2": "^4.2.0",
+    "socket.io": "^2.3.0"
+  }
+}
